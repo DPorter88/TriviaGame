@@ -1,9 +1,9 @@
-body,htm {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(https://free4kwallpapers.com/uploads/originals/2019/05/08/marvel-wallpaper.jpg);
+body,html {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT011aXoYzqthyExGAgUI6welRDxDCwAlUAwuWK1zBiJkjzM5AY&s);
+     
    
-    width: 100%;
+     
+    
     margin: auto;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     position: static;
@@ -12,7 +12,7 @@ body,htm {
 .col-md-4{
     border-style: solid;
     border-color: #1a1a6e;
-    background-color: #58585856;
+    background-color: rgba(23, 23, 24, 0.836);
     color: #7f71fc;
     margin-left: 730px;
     padding-bottom: 185px;
